@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpuggal
 - 👀 I’m interested in Programming systems
-- 🌱 I’m currently learning Kotlin, System Desiging, Supply chain
+- 🌱 I’m currently learning Java, System Desiging, Supply chain
 - 📫 How to reach me: https://www.linkedin.com/in/chandanpuggal/
 
 <!---
