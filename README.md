@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpuggal
 - 👀 I’m interested in Programming Systems
-- 🌱 I’m currently learning High Scale System Designing, Supply chain, FinTech
+- 🌱 I’m currently learning building High Scale System solving for - Supply chain, Robotics and Marketing products
 - 📫 How to reach me: https://www.linkedin.com/in/chandanpuggal/
 
 <!---
